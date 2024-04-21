@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cardbg">#305E5A</color>
+    <color name="texttint">#46A199</color>
+    <color name="bmibg">#06D1BE</color>
+
+    <color name="lytbg">#222121</color>
+    <color name="teal_200">#00BCD4</color>
+    <color name="purple_700">#050505</color>
+    <color name="teal_700">#673AB7</color>
+    <color name="under_weight">#FF5722</color>
+    <color name="normal">#1AAC74</color>
+    <color name="over_weight">#E91E63</color>
+    <color name="obese">#880202</color>
+
+</resources>
